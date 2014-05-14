@@ -1,27 +1,27 @@
-##LESS/SASS/SCSS Syntax Highlighter for Notepad++
+###LESS/SASS/SCSS Syntax Highlighter for Notepad++
   Syntax Highlighter for **\*.less**, **\*.sass** & **\*.scss**<br> Highly customised for LightTheme.
 
-##Preview
+###Preview
+<a href="http://imgur.com/0U7ek9u"><img src="http://i.imgur.com/0U7ek9u.jpg?1" title="Hosted by imgur.com" /></a>
 
-
-##Original Version
+###Original Version
  - Forked from [LESS.js] [1]
  - [Download original version here][2]
  - Test file Forked from [LESS-sublime][4]
 
-##Installation
+###Installation
 <kbd>Menu</kbd> >> <kbd>Languages</kbd> >> <kbd>Define your Language...</kbd> >> <kbd>Import</kbd> >> <kbd>Import downloaded *.xml</kbd> >> <kbd>Import Successful</kbd> >> <kbd>ok</kbd> >> <kbd>Close Notepad++</kbd>
  
 
 Your Languages menu will show the newly added `LESS,SASS,SCSS` at the bottom, next time you launch Notepad++. 
 
-##Troubleshooting
+###Troubleshooting
  - If syntax is not highlighted by default. Goto Languages, at the bottom of all languages list, select `LESS,SASS,SCSS`.
  - If `LESS,SASS,SCSS` is not available under Languages, check if you have [installed] [3] properly.
 
 ###### Author : [VenomVendor](https://www.google.com/#newwindow=1&q=VenomVendor "Find me on Google")
 
-##License
+###License
 	Copyright (C) 2014 VenomVendor <info@VenomVendor.com>
 
 	Licensed under the Apache License, Version 2.0 (the "License");
